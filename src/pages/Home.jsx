@@ -71,13 +71,6 @@ const Home = () => {
             </Link>
           </div>
         </Reveal>
-        <Reveal className="glass-card" variant="slide-right" delay={160}>
-          <p className="card__meta">Signature Studio Outline</p>
-          <h2 className="card__title">Three-page journey, one coherent story</h2>
-          <p className="card__body">
-            Inside you’ll find a living timeline, textual analysis, and a creative reflection. Each page is intentionally designed to feel like an Apple product reveal—sleek gradients, cinematic typography, and scroll-worthy pacing.
-          </p>
-        </Reveal>
       </Reveal>
 
       <Reveal as="section" className="section">
