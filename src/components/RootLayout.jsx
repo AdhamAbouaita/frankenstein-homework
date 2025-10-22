@@ -5,7 +5,6 @@ const navItems = [
   { to: '/', label: 'Overview' },
   { to: '/timeline', label: 'Timeline' },
   { to: '/connections', label: 'Connections' },
-  { to: '/reflection', label: 'Portfolio' },
 ]
 
 const RootLayout = () => {
